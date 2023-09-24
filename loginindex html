@@ -1,0 +1,120 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://localhost:7700/index.html
+Subject: Log In Form
+Date: Sun, 24 Sep 2023 06:39:56 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--NWqVfKz5YuGImXxFUlM94p4RFnM4HqjAOuUsngbToo----"
+
+
+------MultipartBoundary--NWqVfKz5YuGImXxFUlM94p4RFnM4HqjAOuUsngbToo----
+Content-Type: text/html
+Content-ID: <frame-1ACFF5E915D63889EBFFC6A26558A728@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://localhost:7700/index.html
+
+<!DOCTYPE html><html lang="en" class="hydrated"><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"><link rel="stylesheet" type="text/css" href="cid:css-095108a1-12c4-454b-a54a-99ee94d74cb0@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-21d32b68-c406-445a-9e15-0db013db1158@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-83f7ddaa-9a25-4571-a998-a8e6a83c2ee5@mhtml.blink" />
+   
+  <link rel="stylesheet" href="http://localhost:7700/css.css.css"> 
+  <title>Log In Form</title> 
+  
+ </head><div style="all: initial;"><template shadowmode="open"><div id="eruda" class="eruda-container" contenteditable="false"><div class="eruda-dev-tools" style="height: 50%;"><div class="eruda-resize-gutter"></div><div class="eruda-nav-bar-container"><div class="eruda-nav-bar"><div class="eruda-nav-bar-item eruda-active">console</div><div class="eruda-nav-bar-item">elements</div><div class="eruda-nav-bar-item">network</div><div class="eruda-nav-bar-item">resources</div><div class="eruda-nav-bar-item">settings</div></div><div class="eruda-bottom-bar" style="width: 0px; left: 0px;"></div></div><div class="eruda-tools"><div id="eruda-resources" class="eruda-resources eruda-tool"><div class="eruda-section eruda-local-storage"><h2 class="eruda-title">Local Storage<div class="eruda-btn eruda-refresh-local-storage"><span class="eruda-icon-refresh"></span></div><div class="eruda-btn eruda-clear-storage" data-type="local"><span class="eruda-icon-clear"></span></div><div class="eruda-btn eruda-search" data-type="local"><span class="eruda-icon-search"></span></div>  </h2><div class="eruda-content"><table><tbody>   <tr><td class="eruda-key">eruda-resources</td><td class="eruda-storage-val" data-key="eruda-resources" data-type="local">{"hideErudaSetting":true,"observeElement":true}</td><td class="eruda-control"><span class="eruda-icon-delete eruda-delete-storage" data-key="eruda-resources" data-type="local"></span></td></tr>  <tr><td class="eruda-key">eruda-console</td><td class="eruda-storage-val" data-key="eruda-console" data-type="local">{"asyncRender":false,"catchGlobalErr":true,"jsExecution":true,"overrideConsole":true,"displayExtraInfo":true,"displayUnenumerable":true,"displayGetterVal":false,"lazyEvaluation":false,"displayIfErr":f...</td><td class="eruda-control"><span class="eruda-icon-delete eruda-delete-storage" data-key="eruda-console" data-type="local"></span></td></tr>  <tr><td class="eruda-key">eruda-network</td><td class="eruda-storage-val" data-key="eruda-network" data-type="local">{"overrideFetch":true}</td><td class="eruda-control"><span class="eruda-icon-delete eruda-delete-storage" data-key="eruda-network" data-type="local"></span></td></tr>  <tr><td class="eruda-key">eruda-dev-tools</td><td class="eruda-storage-val" data-key="eruda-dev-tools" data-type="local">{"transparency":1,"displaySize":50,"theme":"Light"}</td><td class="eruda-control"><span class="eruda-icon-delete eruda-delete-storage" data-key="eruda-dev-tools" data-type="local"></span></td></tr>  <tr><td class="eruda-key">eruda-elements</td><td class="eruda-storage-val" data-key="eruda-elements" data-type="local">{"overrideEventTarget":true,"observeElement":true}</td><td class="eruda-control"><span class="eruda-icon-delete eruda-delete-storage" data-key="eruda-elements" data-type="local"></span></td></tr>  <tr><td class="eruda-key">eruda-entry-button</td><td class="eruda-storage-val" data-key="eruda-entry-button" data-type="local">{"rememberPos":true,"pos":{"x":350,"y":601}}</td><td class="eruda-control"><span class="eruda-icon-delete eruda-delete-storage" data-key="eruda-entry-button" data-type="local"></span></td></tr>   </tbody></table></div></div><div class="eruda-section eruda-session-storage"><h2 class="eruda-title">Session Storage<div class="eruda-btn eruda-refresh-session-storage"><span class="eruda-icon-refresh"></span></div><div class="eruda-btn eruda-clear-storage" data-type="session"><span class="eruda-icon-clear"></span></div><div class="eruda-btn eruda-search" data-type="session"><span class="eruda-icon-search"></span></div>  </h2><div class="eruda-content"><table><tbody>  <tr><td>Empty</td></tr>  </tbody></table></div></div><div class="eruda-section eruda-cookie eruda-"><h2 class="eruda-title">Cookie<div class="eruda-btn eruda-refresh-cookie"><span class="eruda-icon-refresh"></span></div><div class="eruda-btn eruda-clear-cookie"><span class="eruda-icon-clear"></span></div><div class="eruda-btn eruda-search" data-type="cookie"><span class="eruda-icon-search"></span></div>  </h2><div class="eruda-content"><table><tbody>  <tr><td>Empty</td></tr>  </tbody></table></div></div><div class="eruda-section eruda-script eruda-"><h2 class="eruda-title">Script<div class="eruda-btn eruda-refresh-script"><span class="eruda-icon-refresh"></span></div></h2><ul class="eruda-link-list">  <li>Empty</li>  </ul></div><div class="eruda-section eruda-stylesheet eruda-"><h2 class="eruda-title">Stylesheet<div class="eruda-btn eruda-refresh-stylesheet"><span class="eruda-icon-refresh"></span></div></h2><ul class="eruda-link-list">  <li>Empty</li>  </ul></div><div class="eruda-section eruda-iframe"><h2 class="eruda-title">Iframe<div class="eruda-btn eruda-refresh-iframe"><span class="eruda-icon-refresh"></span></div></h2><ul class="eruda-link-list">  <li>Empty</li>  </ul></div><div class="eruda-section eruda-image"><h2 class="eruda-title eruda-">Image<div class="eruda-btn eruda-refresh-image"><span class="eruda-icon-refresh"></span></div></h2><ul class="eruda-image-list">  <li>Empty</li>  </ul></div></div><div id="eruda-network" class="eruda-network eruda-tool"><div class="eruda-title">Request<div class="eruda-btn eruda-clear-request"><span class="eruda-icon-clear"></span></div></div><ul class="eruda-requests"></ul><div class="eruda-detail"></div></div><div id="eruda-elements" class="eruda-elements eruda-tool"><div class="eruda-show-area"></div><div class="eruda-bottom-bar"><div class="eruda-btn eruda-select"><span class="eruda-icon eruda-icon-select"></span></div><div class="eruda-btn eruda-refresh"><span class="eruda-icon eruda-icon-refresh"></span></div><div class="eruda-btn eruda-highlight"><span class="eruda-icon eruda-icon-eye"></span></div><div class="eruda-btn eruda-reset"><span class="eruda-icon eruda-icon-reset"></span></div></div></div><div id="eruda-console" class="eruda-console eruda-tool" style="display: block;"><div class="eruda-console-container"><div class="eruda-control"><span class="eruda-icon-clear eruda-clear-console"></span> <span class="eruda-filter eruda-active" data-filter="all">All</span> <span class="eruda-filter" data-filter="error">Error</span> <span class="eruda-filter" data-filter="warn">Warning</span> <span class="eruda-filter" data-filter="info">Info</span> <span class="eruda-search-keyword"></span> <span class="eruda-icon-search eruda-search"></span></div><div class="eruda-logs-container"><div class="eruda-top-space"></div><ul class="eruda-fake-logs"></ul><ul class="eruda-logs"></ul><div class="eruda-bottom-space"></div></div><div class="eruda-js-input"><div class="eruda-buttons"><div class="eruda-button eruda-cancel">Cancel</div><div class="eruda-button eruda-execute">Execute</div></div><span class="eruda-icon-arrow-right"></span> <textarea autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"></textarea></div></div></div><div id="eruda-settings" class="eruda-settings eruda-tool"><div class="eruda-separator"></div><div id="eruda-settings1" class="eruda-switch"> Remember Entry Button Position <label class="eruda-checkbox"><input type="checkbox" class="eruda-input" data-id="eruda-settings1" checked="checked"> <span class="eruda-label"></span> <span class="eruda-handle"></span></label></div><div class="eruda-separator"></div><div id="eruda-settings2" class="eruda-select"><div class="eruda-head"> Theme <span class="eruda-val">Light</span></div><ul data-id="eruda-settings2">  <li>Light</li>  <li>Dark</li>  <li>Material Oceanic</li>  <li>Material Darker</li>  <li>Material Lighter</li>  <li>Material Palenight</li>  <li>Material Deep Ocean</li>  <li>Monokai Pro</li>  <li>Dracula</li>  <li>Arc Dark</li>  <li>Atom One Dark</li>  <li>Atom One Light</li>  <li>Solarized Dark</li>  <li>Solarized Light</li>  <li>Github</li>  <li>Night Owl</li>  <li>Light Owl</li>  </ul></div><div id="eruda-settings3" class="eruda-range"><div class="eruda-head"> Transparency <span class="eruda-val">1</span></div><div class="eruda-input-container" data-id="eruda-settings3"><div class="eruda-range-track"><div class="eruda-range-track-bar"><div class="eruda-range-track-progress" style="width: 100.00%"></div></div></div><input type="range" min="0.2" max="1" step="0.01" value="1"></div></div><div id="eruda-settings4" class="eruda-range"><div class="eruda-head"> Display Size <span class="eruda-val">50</span></div><div class="eruda-input-container" data-id="eruda-settings4"><div class="eruda-range-track"><div class="eruda-range-track-bar"><div class="eruda-range-track-progress" style="width: 16.67%"></div></div></div><input type="range" min="40" max="100" step="1" value="50"></div></div><div class="eruda-separator"></div><div class="eruda-text">Console</div><div id="eruda-settings5" class="eruda-switch"> Asynchronous Rendering <label class="eruda-checkbox"><input type="checkbox" class="eruda-input" data-id="eruda-settings5"> <span class="eruda-label"></span> <span class="eruda-handle"></span></label></div><div id="eruda-settings6" class="eruda-switch"> Enable JavaScript Execution <label class="eruda-checkbox"><input type="checkbox" class="eruda-input" data-id="eruda-settings6" checked="checked"> <span class="eruda-label"></span> <span class="eruda-handle"></span></label></div><div id="eruda-settings7" class="eruda-switch"> Catch Global Errors <label class="eruda-checkbox"><input type="checkbox" class="eruda-input" data-id="eruda-settings7" checked="checked"> <span class="eruda-label"></span> <span class="eruda-handle"></span></label></div><div id="eruda-settings8" class="eruda-switch"> Override Console <label class="eruda-checkbox"><input type="checkbox" class="eruda-input" data-id="eruda-settings8" checked="checked"> <span class="eruda-label"></span> <span class="eruda-handle"></span></label></div><div id="eruda-settings9" class="eruda-switch"> Auto Display If Error Occurs <label class="eruda-checkbox"><input type="checkbox" class="eruda-input" data-id="eruda-settings9"> <span class="eruda-label"></span> <span class="eruda-handle"></span></label></div><div id="eruda-settings10" class="eruda-switch"> Display Extra Information <label class="eruda-checkbox"><input type="checkbox" class="eruda-input" data-id="eruda-settings10" checked="checked"> <span class="eruda-label"></span> <span class="eruda-handle"></span></label></div><div id="eruda-settings11" class="eruda-switch"> Display Unenumerable Properties <label class="eruda-checkbox"><input type="checkbox" class="eruda-input" data-id="eruda-settings11" checked="checked"> <span class="eruda-label"></span> <span class="eruda-handle"></span></label></div><div id="eruda-settings12" class="eruda-switch"> Access Getter Value <label class="eruda-checkbox"><input type="checkbox" class="eruda-input" data-id="eruda-settings12"> <span class="eruda-label"></span> <span class="eruda-handle"></span></label></div><div id="eruda-settings13" class="eruda-switch"> Lazy Evaluation <label class="eruda-checkbox"><input type="checkbox" class="eruda-input" data-id="eruda-settings13"> <span class="eruda-label"></span> <span class="eruda-handle"></span></label></div><div id="eruda-settings14" class="eruda-select"><div class="eruda-head"> Max Log Number <span class="eruda-val">infinite</span></div><ul data-id="eruda-settings14">  <li>infinite</li>  <li>250</li>  <li>125</li>  <li>100</li>  <li>50</li>  <li>10</li>  </ul></div><div class="eruda-separator"></div><div class="eruda-text">Elements</div><div id="eruda-settings15" class="eruda-switch"> Catch Event Listeners <label class="eruda-checkbox"><input type="checkbox" class="eruda-input" data-id="eruda-settings15" checked="checked"> <span class="eruda-label"></span> <span class="eruda-handle"></span></label></div><div id="eruda-settings16" class="eruda-switch"> Auto Refresh <label class="eruda-checkbox"><input type="checkbox" class="eruda-input" data-id="eruda-settings16" checked="checked"> <span class="eruda-label"></span> <span class="eruda-handle"></span></label></div><div class="eruda-separator"></div><div class="eruda-text">Network</div><div id="eruda-settings17" class="eruda-switch"> Catch Fetch Requests <label class="eruda-checkbox"><input type="checkbox" class="eruda-input" data-id="eruda-settings17" checked="checked"> <span class="eruda-label"></span> <span class="eruda-handle"></span></label></div><div class="eruda-separator"></div><div class="eruda-text">Resources</div><div id="eruda-settings18" class="eruda-switch"> Hide Eruda Setting <label class="eruda-checkbox"><input type="checkbox" class="eruda-input" data-id="eruda-settings18" checked="checked"> <span class="eruda-label"></span> <span class="eruda-handle"></span></label></div><div id="eruda-settings19" class="eruda-switch"> Auto Refresh Elements <label class="eruda-checkbox"><input type="checkbox" class="eruda-input" data-id="eruda-settings19" checked="checked"> <span class="eruda-label"></span> <span class="eruda-handle"></span></label></div><div class="eruda-separator"></div></div></div></div><div class="eruda-entry-btn" style="touch-action: none; left: 350px; top: 601px; display: none;"><span class="eruda-icon-tool"></span></div><div class="eruda-elements-highlight"><div class="eruda-indicator"><div class="eruda-margin"></div><div class="eruda-border"></div><div class="eruda-padding"></div><div class="eruda-content"></div></div><div class="eruda-size"></div></div></div></template></div>  
+ <body> 
+  <section> 
+   <div class="form-box"> 
+    <div class="form-value"> 
+     <form> 
+      <h2>Login</h2> 
+      <div class="inputbox"> <ion-icon name="person" role="img" class="md hydrated" aria-label="person"><template shadowmode="open"><div class="icon-inner"><svg xmlns="http://www.w3.org/2000/svg" class="ionicon s-ion-icon" viewBox="0 0 512 512"><title>Person</title><path d="M332.64 64.58C313.18 43.57 286 32 256 32c-30.16 0-57.43 11.5-76.8 32.38-19.58 21.11-29.12 49.8-26.88 80.78C156.76 206.28 203.27 256 256 256s99.16-49.71 103.67-110.82c2.27-30.7-7.33-59.33-27.03-80.6zM432 480H80a31 31 0 01-24.2-11.13c-6.5-7.77-9.12-18.38-7.18-29.11C57.06 392.94 83.4 353.61 124.8 326c36.78-24.51 83.37-38 131.2-38s94.42 13.5 131.2 38c41.4 27.6 67.74 66.93 76.18 113.75 1.94 10.73-.68 21.34-7.18 29.11A31 31 0 01432 480z"></path></svg></div></template></ion-icon> 
+       <input type="text" name="username" required=""> <label folder="username">Username</label> 
+      </div> 
+      <div class="inputbox"> <ion-icon name="lock-closed" role="img" class="md hydrated" aria-label="lock closed"><template shadowmode="open"><div class="icon-inner"><svg xmlns="http://www.w3.org/2000/svg" class="ionicon s-ion-icon" viewBox="0 0 512 512"><title>Lock Closed</title><path d="M368 192h-16v-80a96 96 0 10-192 0v80h-16a64.07 64.07 0 00-64 64v176a64.07 64.07 0 0064 64h224a64.07 64.07 0 0064-64V256a64.07 64.07 0 00-64-64zm-48 0H192v-80a64 64 0 11128 0z"></path></svg></div></template></ion-icon> 
+       <input type="password" name="password" required=""> <label for="password">Password</label> 
+      </div> 
+      <div class="forget"> <label for=""><input type="checkbox">Remember Me <a href="http://localhost:7700/index.html#"> <br> Forgot Password?</a></label> 
+      </div> <button type="submit">Log in</button> 
+      <div class="register"> 
+       <p>Don't have an account? <a href="http://localhost:7700/index.html#">Sign Up</a></p> 
+      </div> 
+     </form> 
+    </div> 
+   </div> 
+  </section> 
+   
+    
+ 
+</body></html>
+------MultipartBoundary--NWqVfKz5YuGImXxFUlM94p4RFnM4HqjAOuUsngbToo----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-095108a1-12c4-454b-a54a-99ee94d74cb0@mhtml.blink
+
+@charset "windows-1252";
+
+ion-icon { visibility: hidden; }
+
+.hydrated { visibility: inherit; }
+------MultipartBoundary--NWqVfKz5YuGImXxFUlM94p4RFnM4HqjAOuUsngbToo----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-21d32b68-c406-445a-9e15-0db013db1158@mhtml.blink
+
+@charset "windows-1252";
+
+.eruda-search-highlight-block { display: inline; }
+
+.eruda-search-highlight-block .eruda-keyword { background: rgb(255, 251, 229); color: rgb(92, 92, 0); }
+------MultipartBoundary--NWqVfKz5YuGImXxFUlM94p4RFnM4HqjAOuUsngbToo----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-83f7ddaa-9a25-4571-a998-a8e6a83c2ee5@mhtml.blink
+
+@charset "windows-1252";
+
+@font-face { font-family: eruda-icon; src: url("data:application/x-font-woff;charset=utf-8;base64,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") format("woff"); }
+
+[class*=" eruda-icon-"], [class^="eruda-icon-"] { font-size: 16px; font-style: normal; -webkit-font-smoothing: antialiased; font-family: eruda-icon !important; }
+
+.eruda-icon-arrow-left::before { content: "\f101 "; }
+
+.eruda-icon-arrow-right::before { content: "\f102 "; }
+
+.eruda-icon-caret-down::before { content: "\f103 "; }
+
+.eruda-icon-caret-right::before { content: "\f104 "; }
+
+.eruda-icon-clear::before { content: "\f105 "; }
+
+.eruda-icon-compress::before { content: "\f106 "; }
+
+.eruda-icon-delete::before { content: "\f107 "; }
+
+.eruda-icon-error::before { content: "\f108 "; }
+
+.eruda-icon-expand::before { content: "\f109 "; }
+
+.eruda-icon-eye::before { content: "\f10a "; }
+
+.eruda-icon-play::before { content: "\f10b "; }
+
+.eruda-icon-refresh::before { content: "\f10c "; }
+
+.eruda-icon-reset::before { content: "\f10d "; }
+
+.eruda-icon-search::before { content: "\f10e "; }
+
+.eruda-icon-select::before { content: "\f10f "; }
+
+.eruda-icon-tool::before { content: "\f110 "; }
+
+.eruda-icon-warn::before { content: "\f111 "; }
+------MultipartBoundary--NWqVfKz5YuGImXxFUlM94p4RFnM4HqjAOuUsngbToo----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: http://localhost:7700/css.css.css
+
+@charset "windows-1252";
+
+
+------MultipartBoundary--NWqVfKz5YuGImXxFUlM94p4RFnM4HqjAOuUsngbToo------
